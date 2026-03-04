@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Adityaraj Patil</h1>
-<h3 align="center">A passionate Full Stack Developer, Mentor, and Technical Trainer</h3>
+<h1 align="center">Hi 👋, I'm Chanveer Biradar</h1>
+<h3 align="center">A passionate coder</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -8,18 +8,11 @@
 </p>
 
 <!-- Social Links -->
-<p align="center">
-  <a href="mailto:ASPATIL2904@GMAIL.COM">
+<p align="center"><a href="mailto:BIRADARCHANVEER2006@GMAIL.COM">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://instagram.com/iam_adi29">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <!-- Add your LinkedIn or Twitter here if you want! -->
-  <!-- <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-</p>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 ## 💫 About Me
 
@@ -29,11 +22,11 @@ I’m **Chanveer Biradar**, working on real-world problem-solving systems.
 - 💼 Alongside this, I am actively working with **Dexpert Systems**, contributing to development and learning in advanced system design and modern technology stacks.
 
 ### 💻 What I Do
-- 🌐 Full Stack Web Development (Frontend & Backend)
+- 🌐 database management system
 - 🎓 Mentoring & Training aspiring developers
 - 🏗️ Project Architecture & System Design
 - 🔬 Research-oriented and problem-solving based development
-- 🤝 Guiding interns on real-world applications and best practices
+- 🤝PYTHON developer
 
 ### 🚀 Interests
 - 🤖 AI-assisted systems & automation
@@ -41,7 +34,7 @@ I’m **Chanveer Biradar**, working on real-world problem-solving systems.
 - 📚 Teaching through real projects
 
 ### 📌 Philosophy
-> *"Build with purpose. Learn continuously. Teach what you master."*
+> *"Build with purpose. Learn continuously."*
 
 <br>
 
